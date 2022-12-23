@@ -1,0 +1,9 @@
+header{
+ display: flex;
+ justify-content: space-between;
+ border: 0;
+ border-radius: 0;
+ /*background-color: #264141;*/
+ text-align: center;
+ text-decoration: none;
+}
